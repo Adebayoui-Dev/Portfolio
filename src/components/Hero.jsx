@@ -196,7 +196,7 @@ const Hero = () => {
 
               <div className="icons">
                 <div>
-                  <img src="/resume.png" alt="" />
+                  <img src="/resume.png" alt="https://drive.google.com/file/d/1NTdRTdtYHiM161CgYB_FbEHfZgllW-RN/view?usp=drive_link" />
                 </div>
                 <div style={{ marginTop: "10.5px" }}>
                   <img src="/instagram.png" alt="" />
